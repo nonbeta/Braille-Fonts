@@ -1,0 +1,12 @@
+%!Mode:: "XeTex:UTF-8"
+
+\documentclass{article}
+\usepackage{fontspec}
+
+\begin{document}
+
+NSS-braille:28F3: \fontspec{NSS-braille.otf}{\Uchar"28F3}
+NSS-braille6:2803:\fontspec{NSS-braille6.otf}{\Uchar"2803}
+NSS-braille8:28F3:\fontspec{NSS-braille8.otf}{\Uchar"28F3}
+
+\end{document}

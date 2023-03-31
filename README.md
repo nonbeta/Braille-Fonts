@@ -1,4 +1,4 @@
-There are many fonts for Braille Code. If they fit in with your work, please skip  this page.
+There are many fonts for Braille Code. If they fit in with your work, please skip  this font.
 
 Unicode Range U+2800-28FF:
 ----
@@ -21,4 +21,4 @@ It's easy to spot that dot(1) is not dot(3) on such scale, but it'll be not that
 in NSS-braille font, you need to to specify (124567) beside the braille code.
 in NSS-braille6 and NSS-braille8, the code itself specifies the postion, the former is used in FR,UK,US,CN,RU... the latter is in luxemburg...
 
-please refer to the example, if you can run the xelatex code
+please refer to the example, if you can run the xelatex code.

@@ -8,10 +8,6 @@ Unicode Range U+2800-28FF:
 why new font
 =====
 Some popular fonts only display the embossed dot by default, which is *NOT* friendly for the beginner from the sighted and amblyopia to learn, as well as the teacher to prepare the teaching material.
-1. .4
-2. .5
-3. .6
-7. .8
 
 It's easy to spot that dot(1) is not dot(3) on such scale, but it'll be not that easy when it's within a tofu-like square inside a line.
 
